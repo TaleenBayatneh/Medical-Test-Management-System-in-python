@@ -121,3 +121,9 @@ Medical Test Management System
 
 ---
 
+##  Contributors
+
+* **Taleen Bayatneh (1211305)**
+* **Masa Jalamneh (1212145)**
+
+---
